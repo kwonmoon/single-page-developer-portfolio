@@ -255,6 +255,12 @@ button {
    align-items: center;
 }
 
+.project-header h2 {
+   font-size: 5.5rem;
+   line-height: 1;
+   letter-spacing: -2.5px;
+}
+
 .project-header button {
    background-color: hsl( var(--color-black) );
    color: hsl( var(--color-white) );
@@ -513,6 +519,12 @@ input:-webkit-autofill {
       right: -20.75rem;
    }
    
+   .project-header h2 {
+      font-size: 4.5rem;
+      line-height: 1;
+      letter-spacing: -2.05px;
+   }
+   
    .project-container {
       margin-top: 3.75rem;
       gap: 3.75rem 1.5rem;
@@ -685,6 +697,11 @@ input:-webkit-autofill {
 
    .projects {
       margin: 5rem auto;
+   }
+
+   .project-header h2 {
+      font-size: 2.5rem;
+      letter-spacing: -1.14px;
    }
 
    .project-container {
