@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/kwonmoon/single-page-developer-portfolio)
-- Live Site URL: [Netlify]()
+- Live Site URL: [Netlify](https://deluxe-kheer-2c18a4.netlify.app/)
 
 ## My process
 
